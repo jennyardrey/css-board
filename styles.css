@@ -47,6 +47,10 @@ h3 {
 .post-it {
     list-style: none;
     box-shadow: 0 8px 6px -6px black;
+    text-align: center;
+    transform: rotate(9deg);
+
+    
 }
 
 .dashboard--selectors, .dashboard--properties, .dashboard--layouts {
@@ -76,7 +80,18 @@ h3 {
 /* MIXED */
 /***************************************************/
 
+#mahmoud {
+    height: 200px;
+    width: 200px;
+ background-color: #FF6F91;
+    
+    
 
+}
+
+#mahmoud h3{
+    font-weight: bold;
+}
 
 /***************************************************/
 /* LAYOUTS */
