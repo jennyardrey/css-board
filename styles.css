@@ -96,6 +96,20 @@ h3 {
 /***************************************************/
 /* LAYOUTS */
 /***************************************************/
+.post-it {
+    padding: 15px;
+    text-align: center;
+}
+#Shabina {
+    background-color: #0089BA;
+    height: 200px;
+    aspect-ratio: 1/1;
+    transform: rotate(10deg);
+}
+
+.title {
+    font-weight: 900;
+}
 #tomramsden {
     background: #0089BA;
     width: 200px;
