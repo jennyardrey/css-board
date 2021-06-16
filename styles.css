@@ -78,8 +78,19 @@
 /* LAYOUTS */
 /***************************************************/
 
+.post-it{
+height: 200px;
+background-color: #0089ba;
+padding: 25px;
+transform: rotate(10deg);
+width: 200px;
+
+}
 
 
+h3{
+    font-weight: bold;
+}
 /***************************************************/
 /* MEDIA QUERIES TO ENSURE RESPONSIVENESS */
 /***************************************************/
