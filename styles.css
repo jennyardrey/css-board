@@ -67,7 +67,12 @@ h3 {
 /* SELECTORS */
 /***************************************************/
 
-
+#ada {
+    height: 200px;
+    width: 200px;
+    background-color: #e0ea87;
+    transform: rotate(4deg);
+}
 
 p {
     padding:7px;
