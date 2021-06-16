@@ -72,6 +72,16 @@
 /* MIXED */
 /***************************************************/
 
+#Khalid {
+    height: 200px;
+    width: 200px;
+    background-color: #ff6f91;
+    transform: rotate(10deg);
+}
+
+#Khalid h3 {
+    font-weight: bold;
+}
 
 
 /***************************************************/
