@@ -9,6 +9,10 @@
     font-weight: normal;
 }
 
+h3 {
+    font-weight: bold;
+}
+
 .post-it {
     box-shadow: 0 8px 6px -6px black;
 }
@@ -43,6 +47,10 @@
 .post-it {
     list-style: none;
     box-shadow: 0 8px 6px -6px black;
+    text-align: center;
+    transform: rotate(9deg);
+
+    
 }
 
 .dashboard--selectors, .dashboard--properties, .dashboard--layouts {
@@ -81,13 +89,34 @@
 
 #Khalid h3 {
     font-weight: bold;
+
+#mahmoud {
+    height: 200px;
+    width: 200px;
+ background-color: #FF6F91;
+    
+    
+
+
 }
 
+#mahmoud h3{
+    font-weight: bold;
+}
 
 /***************************************************/
 /* LAYOUTS */
 /***************************************************/
-
+#tomramsden {
+    background: #0089BA;
+    width: 200px;
+    height: 200px;
+    transform: rotate(-10deg);
+    padding: 1rem;
+}
+#tomramsden h3 {
+    padding-bottom: 1rem;
+}
 
 
 /***************************************************/
