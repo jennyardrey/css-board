@@ -92,11 +92,24 @@ h3 {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #jen h3 {
     font-weight: bold;
     padding-bottom: 1rem;
 }
 =======
+=======
+#Khalid {
+    height: 200px;
+    width: 200px;
+    background-color: #ff6f91;
+    transform: rotate(10deg);
+}
+
+#Khalid h3 {
+    font-weight: bold;
+
+>>>>>>> main
 #mahmoud {
     height: 200px;
     width: 200px;
@@ -104,6 +117,7 @@ h3 {
     
     
 >>>>>>> main
+
 
 }
 
