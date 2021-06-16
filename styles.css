@@ -71,7 +71,22 @@
 /***************************************************/
 /* MIXED */
 /***************************************************/
+#jen {
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    background-color: #ff6f91;
+    transform: rotateZ(10deg);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 1rem;
+}
 
+#jen h3 {
+    font-weight: bold;
+    padding-bottom: 1rem;
+}
 
 
 /***************************************************/
